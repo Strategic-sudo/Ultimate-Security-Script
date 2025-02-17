@@ -1,2 +1,1 @@
-# Ultimate-Security-Script
-An advanced self-healing ransomware protection and network security script.
+Use it on your own risk.
